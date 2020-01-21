@@ -1,0 +1,91 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (6.4.0)
+  - MBProgressHUD (1.1.0)
+  - MGJRouter (0.10.0)
+  - MJRefresh (3.2.0)
+  - ReactiveObjC (3.1.1)
+  - SDWebImage (5.0.6):
+    - SDWebImage/Core (= 5.0.6)
+  - SDWebImage/Core (5.0.6)
+  - TTTAttributedLabel (2.0.0)
+  - WHC_AutoLayoutKit (2.8.4):
+    - WHC_AutoLayoutKit/AutoCellHeight (= 2.8.4)
+    - WHC_AutoLayoutKit/Frame (= 2.8.4)
+    - WHC_AutoLayoutKit/LayoutGuide (= 2.8.4)
+    - WHC_AutoLayoutKit/LayoutView (= 2.8.4)
+    - WHC_AutoLayoutKit/StackView (= 2.8.4)
+    - WHC_AutoLayoutKit/Util (= 2.8.4)
+  - WHC_AutoLayoutKit/AutoCellHeight (2.8.4):
+    - WHC_AutoLayoutKit/LayoutView
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/Frame (2.8.4):
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/LayoutGuide (2.8.4):
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/LayoutView (2.8.4):
+    - WHC_AutoLayoutKit/Util
+  - WHC_AutoLayoutKit/StackView (2.8.4):
+    - WHC_AutoLayoutKit/Frame
+    - WHC_AutoLayoutKit/LayoutView
+  - WHC_AutoLayoutKit/Util (2.8.4)
+  - YYModel (1.0.4)
+  - ZFJFormKit (1.0.0)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.2.1)
+  - IQKeyboardManager (~> 6.4.0)
+  - MBProgressHUD (~> 1.1.0)
+  - MGJRouter (~> 0.10.0)
+  - MJRefresh (~> 3.2.0)
+  - ReactiveObjC (~> 3.1.1)
+  - SDWebImage (~> 5.0.6)
+  - TTTAttributedLabel (~> 2.0.0)
+  - WHC_AutoLayoutKit (~> 2.8.4)
+  - YYModel (~> 1.0.4)
+  - ZFJFormKit (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - IQKeyboardManager
+    - MBProgressHUD
+    - MGJRouter
+    - MJRefresh
+    - ReactiveObjC
+    - SDWebImage
+    - TTTAttributedLabel
+    - WHC_AutoLayoutKit
+    - YYModel
+    - ZFJFormKit
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  IQKeyboardManager: fcef267266379c003181fc3592f6bdb8bf4db839
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+  MJRefresh: ed450d6eb9d3346a2cb033ab7eb6de090aeef437
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+  SDWebImage: 920f1a2ff1ca8296ad34f6e0510a1ef1d70ac965
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+  WHC_AutoLayoutKit: 2f36fa6a92f0f46783486c4dee630aae7e1777bb
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  ZFJFormKit: 1d78dae6cad1048d41f41a58d0a3097154150ce4
+
+PODFILE CHECKSUM: 11ff43bde3330e7d13bc993ed2f1fb606ea4a45f
+
+COCOAPODS: 1.7.2
